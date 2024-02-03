@@ -477,6 +477,14 @@ strong {
 
 .menu-image-wrap {
   position: relative;
+  text-align: center;
+}
+
+.menu-image-wrap img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 .menu-tag {
