@@ -306,12 +306,18 @@ strong {
 }
 
 .overlay {
-  background: linear-gradient(to top, var(--dark-color), transparent 100%);
+  background: linear-gradient(to right, var(--secondary-color), transparent 100%);
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+}
+
+.menu-top {
+  background-color: #0e5d42;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 
