@@ -306,7 +306,7 @@ strong {
 }
 
 .overlay {
-  background-color:#7dab9b;
+  background: linear-gradient(to bottom, var(--primary-color), transparent 150%);
   position: absolute;
   top: 0;
   right: 0;
